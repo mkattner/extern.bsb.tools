@@ -1,0 +1,14 @@
+{
+	"cam1": {
+		"ip": "192.168.1.12",
+		"user": "pi",
+		"password": "raspberry",
+		"configFile": "/home/pi/config.json"
+	},
+	"odroid": {
+		"ip": "192.168.1.13",
+		"user": "odroid",
+		"password": "odroid",
+		"configFile": "/home/pi/config.json"
+	}
+}
